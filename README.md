@@ -4,7 +4,7 @@
 
 Hello! I'm Cesar Eduardo, I'm 22 years old, and I'm currently pursuing a BTech in Systems Analysis and Development at the University of Caxias do Sul. I have knowledge in HTML, CSS, JavaScript, and Git, and I'm seeking an opportunity to apply and enhance these skills.
 
-Since I was a kid i've always been in touch with technology, so I decided to pursue this field that has had an early influence on my life. I'm always striving to improve myself and develop new knowledge that can contribute to my personal and professional growth.
+Since I was a kid i've always been in touch with technology, so I decided to pursue this field that had an early influence on my life. I'm always striving to improve myself and develop new knowledge that can contribute to my personal and professional growth.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesar-eduardo1/)
