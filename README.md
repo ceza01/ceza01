@@ -2,7 +2,7 @@
 <h1>Hello World!</h1>
 </div>
 
-Hello! I'm Cesar Eduardo, I'm 22 years old, and I'm currently pursuing a BTech in Systems Analysis and Development at the University of Caxias do Sul. I have knowledge in HTML, CSS, JavaScript, and Git, and I'm seeking an opportunity to apply and enhance these skills.
+Hello! I'm Cesar Eduardo, I'm 22 years old, and I'm currently pursuing a BTech in Systems Analysis and Development at the University of Caxias do Sul. I have knowledge in HTML, CSS, JavaScript, Python and Git, and I'm seeking an opportunity to apply and enhance these skills.
 
 Since I was a kid i've always been in touch with technology, so I decided to pursue this field that had an early influence on my life. I'm always striving to improve myself and develop new knowledge that can contribute to my personal and professional growth.
 
@@ -16,6 +16,8 @@ Since I was a kid i've always been in touch with technology, so I decided to pur
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ## Stats:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ceza01&layout=compact&bg_color=000&border_color=30A3DC&title_color=fff&text_color=FFF)
