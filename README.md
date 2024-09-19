@@ -2,7 +2,7 @@
 <h1>Hello World!</h1>
 </div>
 
-Hi! I'm Cesar Eduardo, I'm 23 years old, and I'm currently pursuing a degree in Systems Analysis and Development at the Universidade de Caxias do Sul. My main focus is on back-end development, with an emphasis on Java and Spring Boot, but I also have experience with Python, SQL, HTML, CSS, JavaScript, and Git.
+I'm Cesar Eduardo, I'm 23 years old, and I'm currently pursuing a degree in Systems Analysis and Development at the Universidade de Caxias do Sul. My main focus is on back-end development, with an emphasis on Java and Spring Boot, but I also have experience with Python, SQL, HTML, CSS, JavaScript, and Git.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesar-eduardo1/)
