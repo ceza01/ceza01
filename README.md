@@ -20,7 +20,7 @@ I'm Cesar Eduardo, I'm 23 years old, and I'm currently pursuing a degree in Syst
 
 
 ## Stats:
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ceza01&layout=compact&bg_color=000&border_color=30A3DC&title_color=fff&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ceza01&layout=compact&bg_color=000&border_color=30A3DC&title_color=fff&text_color=FFF)
 
 <!--
 **ceza01/ceza01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
